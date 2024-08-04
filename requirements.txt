@@ -1,0 +1,9 @@
+torchsummary
+tensorboardx
+natsort
+numpy
+pillow
+scipy
+visdom
+scikit-image
+scikit-learn
